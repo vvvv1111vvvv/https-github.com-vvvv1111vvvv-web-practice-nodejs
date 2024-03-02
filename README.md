@@ -13,4 +13,4 @@
 
 - HTML, CSS, JavaScript
 - Node.Js (Express.Js), Mysql
-- Bootstrap
+- Redis
