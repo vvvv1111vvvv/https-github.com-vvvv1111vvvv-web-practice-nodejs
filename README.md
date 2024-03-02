@@ -11,6 +11,6 @@
 
 ## 🔍 Technology Stack for Web
 
-- HTML, CSS, JavaScript
+- JavaScript
 - Node.Js (Express.Js), Mysql
 - Redis
