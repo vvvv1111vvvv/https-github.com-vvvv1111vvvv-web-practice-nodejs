@@ -52,8 +52,6 @@ CREATE TABLE IF NOT EXISTS Users (
   PRIMARY KEY (id)
 );
 
---INSERT INTO Users (id, password) VALUES ('ungmo2', '1234');
---SELECT password FROM Users WHERE id='ungmo2';
 CREATE TABLE IF NOT EXISTS Users_Specific (
   id VARCHAR(55) NOT NULL,
   highschool VARCHAR(60),
